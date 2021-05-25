@@ -1,0 +1,1 @@
+Pretty Fun and self explanatory. You can check out the deployed app [here.](https://competent-saha-d92f26.netlify.app/)
